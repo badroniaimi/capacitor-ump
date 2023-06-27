@@ -1,0 +1,39 @@
+{
+  "api": {
+    "name": "UmpPlugin",
+    "slug": "umpplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "initialise",
+        "signature": "() => any",
+        "parameters": [],
+        "returns": "any",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "initialise"
+      },
+      {
+        "name": "show",
+        "signature": "(options: { force: boolean; }) => any",
+        "parameters": [
+          {
+            "name": "options",
+            "docs": "",
+            "type": "{ force: boolean; }"
+          }
+        ],
+        "returns": "any",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "show"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": []
+}
